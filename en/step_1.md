@@ -1,59 +1,33 @@
-## Introduction
+## Record sound
 
-Add project description here. What will learners be making? Broadly what skills will they be learning?
+Select the sprite that you want to have the new recorded sound and select the **Sounds** tab. Each sprite starts with a default sound.
 
-### What you will make
+![The sounds tab on the Scratch editor](images/sounds-tab.png)
 
---- no-print ---
-Add instructions for interacting with the embedded content here.
+Click the **Record a Sound** button.
 
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
-</div>
---- /no-print ---
+![direction property in the sprite pane](images/record-sound-button.png)
 
---- print-only ---
-![Complete project](images/showcase_static.png)
---- /print-only ---
+When you are ready, click on the **Record** button to start recording your sound.
 
---- collapse ---
----
-title: What you will need
----
-### Hardware
+![direction property in the sprite pane](images/record-sound.png)
 
-+ A computer or tablet capable of running Scratch 3
+Click on the **Stop recording** button to stop recording your sound.
 
-### Software
+![direction property in the sprite pane](images/stop-recording-sound.png)
 
-+ Scratch 3 (either [online](https://scratch.mit.edu/){:target="_blank"} or [offline](https://scratch.mit.edu/download){:target="_blank"})
-+ Python 3
-+ This project can be completed in a web browser using [trinket.io](https://trinket.io/)
+Your new recording will be shown. You can **Re-record** your sound if you are not happy with it. 
 
-### Downloads
+Drag the orange circles to crop your sound, the part of the sound with a blue background in the middle will be the part that is kept. You can press the **Play** button to hear your sound then keep moving the circles until you get the section you want.  
 
-+ Download the project [starter file](http://rpf.io/p/en/projectName-go){:target="_blank"} if working offline
+![direction property in the sprite pane](images/crop-your-sound.png)
 
---- /collapse ---
+When you are happy with your recording click on the **Save** button. You will be taken straight back to the **Sounds** tab and you will be able to see the sound that you just added.
 
---- collapse ---
----
-title: What you will learn
----
+![direction property in the sprite pane](images/new-sound-inserted.png)
 
-+ Learning objective 1
-+ Learning objective 2
-+ Learning objective 3
+If you switch to the **Code** tab and look at the Sound Blocks menu, you will be able to select the new sound.
 
---- /collapse ---
+![direction property in the sprite pane](images/sound-blocks-menu.png)
 
---- collapse ---
----
-title: Additional information for educators
----
 
-You can download the completed project [here](http://rpf.io/p/en/projectName-get){:target="_blank"}.
-
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/projectName/print){:target="_blank"}.
-
---- /collapse ---
