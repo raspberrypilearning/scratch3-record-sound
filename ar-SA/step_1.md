@@ -28,6 +28,6 @@
 
 إذا قمت بالتبديل إلى تبويب **المقاطع البرمجية** والق نظرة على قائمة كتل `الصوت`{:class="block3sound"}، سوف تكون قادرا على تحديد الصوت الجديد.
 
-![The Sound blocks menu with recording1 available for use in the sound blocks drop down menu.](images/sound-blocks-menu.png)
+![قائمة كتل الصوت مع تسجيل 1 للاستخدام في القائمة المنسدلة لكتل الصوت.](images/sound-blocks-menu.png)
 
 
