@@ -1,5 +1,3 @@
-## Record a sound
-
 Select the sprite that you want to have the new recorded sound, then select the **Sounds** tab:
 
 ![The Sounds tab open in the Scratch editor.](images/sounds-tab.png)
