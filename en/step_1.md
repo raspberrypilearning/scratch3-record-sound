@@ -26,6 +26,6 @@ When you are happy with your recording, click the **Save** button. You will be t
 
 If you switch to the **Code** tab and look at the `Sound`{:class="block3sound"} blocks menu, you will be able to select the new sound:
 
-![The Sound blocks menu, with recording1 available for use within the Sound blocks.](images/sound-blocks-menu.png)
+![The 'Sound' blocks menu, with recording1 available for use within blocks.](images/sound-blocks-menu.png)
 
 
