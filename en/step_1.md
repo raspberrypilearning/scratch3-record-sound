@@ -4,7 +4,7 @@ Select the sprite that you want to have the new recorded sound, then select the 
 
 Go to the **Choose a Sound** menu and select the **Record** option:
 
-![The 'Choose a Sound' menu open, with the 'Record' option highlighted.](images/record-sound-button.png)
+![The 'Choose a Sound' menu, with the 'Record' option highlighted.](images/record-sound-button.png)
 
 When you are ready, click the **Record** button to start recording your sound:
 
@@ -20,7 +20,7 @@ Drag the orange circles to crop your sound; the part of the sound with a blue ba
 
 ![The recorded sound in full, with orange circles adjusted to show only part of the sound within a blue background. The rest of the sound is in an orange shaded area.](images/crop-your-sound.png)
 
-When you are happy with your recording, click the **Save** button. You will be taken straight back to the **Sounds** tab and you will be able to see the sound that you just added:
+When you are happy with your recording, click the **Save** button. You will be taken straight back to the **Sounds** tab and you will be able to see the sound that you have just added:
 
 ![The Sounds tab, with recording1 showing in the list of sounds.](images/new-sound-inserted.png)
 
