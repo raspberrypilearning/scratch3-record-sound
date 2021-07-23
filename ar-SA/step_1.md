@@ -1,30 +1,30 @@
-Select the sprite that you want to have the new recorded sound, then select the **Sounds** tab:
+حدد الكائن الذي تريده أن يحصل على الصوت الجديد، ثم حدد علامة التبويب **الأصوات**:
 
 ![فتح علامة التبويب الأصوات في محرر سكراتش.](images/sounds-tab.png)
 
-Go to the **Choose a Sound** menu and select the **Record** option:
+اذهب إلى **اختيار صوت** وحدد خيار **تسجيل**:
 
 ![The 'Choose a Sound' menu, with the 'Record' option highlighted.](images/record-sound-button.png)
 
-When you are ready, click the **Record** button to start recording your sound:
+عندما تكون جاهزًا ، انقر فوق **تسجيل** لبدء تسجيل صوتك:
 
 ![The 'Record Sound' pop-up window with the 'Record' button.](images/record-sound.png)
 
-Click the **Stop recording** button to stop recording your sound:
+انقر فوق **إيقاف التسجيل** لإيقاف تسجيل الصوت:
 
 ![The 'Record Sound' pop-up window with the 'Stop recording' button.](images/stop-recording-sound.png)
 
 سيظهر التسجيل الجديد الخاص بك. يمكنك **إعادة تسجيل** صوتك إذا لم تكن راضيًا عنه.
 
-Drag the orange circles to crop your sound; the part of the sound with a blue background (between the orange circles) will be the part that is kept:
+اسحب الدوائر البرتقالية لاقتصاص صوتك ؛ سيكون جزء الصوت ذو الخلفية الزرقاء (بين الدوائر البرتقالية) هو الجزء الذي يتم الاحتفاظ به:
 
-![The recorded sound in full, with orange circles adjusted to show only part of the sound within a blue background. بقية الصوت في منطقة مظللة باللون البرتقالي.](images/crop-your-sound.png)
+![الصوت المسجل بالكامل بدوائر برتقالية معدلة لإظهار جزء فقط من الصوت داخل خلفية زرقاء. بقية الصوت في منطقة مظللة باللون البرتقالي.](images/crop-your-sound.png)
 
-عندما تكون سعيدًا بالتسجيل الخاص بك ، انقر فوق الزر **حفظ**. You will be taken straight back to the **Sounds** tab and you will be able to see the sound that you have just added:
+عندما تكون سعيدًا بالتسجيل الخاص بك ، انقر فوق الزر **حفظ**. ستتم إعادتك مباشرة إلى علامة التبويب **الأصوات** وستتمكن من رؤية الصوت الذي أضفته للتو:
 
-![The Sounds tab, with recording1 showing in the list of sounds.](images/new-sound-inserted.png)
+![علامة التبويب الأصوات مع تسجيل 1 في قائمة الأصوات.](images/new-sound-inserted.png)
 
-If you switch to the **Code** tab and look at the `Sound`{:class="block3sound"} blocks menu, you will be able to select the new sound:
+إذا قمت بالتبديل إلى **التعليمة البرمجية** التبويب ونظرة على `صوت`{: class= "block3sound"} القائمة التعليمات البرمجية، سوف تكون قادرا على تحديد الصوت الجديد:
 
 ![The 'Sound' blocks menu, with recording1 available for use within blocks.](images/sound-blocks-menu.png)
 
