@@ -22,10 +22,10 @@ Arrastra los círculos naranjas para recortar tu sonido; la parte del sonido con
 
 Cuando estés satisfecho con tu grabación, haz clic en el botón **Guardar**. Volverás directamente a la pestaña **Sonidos** y podrás ver el sonido que acabas de agregar:
 
-![The Sounds tab, with recording1 showing in the list of sounds.](images/new-sound-inserted.png)
+![La pestaña Sonidos, con recording1 mostrándose en la lista de sonidos.](images/new-sound-inserted.png)
 
 Si cambias a la pestaña **Código** y miras el menú de bloques `Sonido`{:class="block3sound"}, podrás seleccionar el nuevo sonido:
 
-![The 'Sound' blocks menu, with recording1 available for use within blocks.](images/sound-blocks-menu.png)
+![El menú de bloques 'Sonido', con recording1 disponible para su uso dentro los bloques.](images/sound-blocks-menu.png)
 
 
