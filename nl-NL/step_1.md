@@ -1,31 +1,31 @@
-Select the sprite that you want to have the new recorded sound, then select the **Sounds** tab:
+Selecteer de sprite waarvoor je een nieuw geluid wilt opnemen, en klik dan op het **Geluiden** tabblad.
 
 ![Het tabblad Geluiden geopend in de Scratch-editor.](images/sounds-tab.png)
 
-Go to the **Choose a Sound** menu and select the **Record** option:
+Ga naar het **Kies een geluid** menu en kies **Opnemen**.
 
-![The 'Choose a Sound' menu, with the 'Record' option highlighted.](images/record-sound-button.png)
+![Het Kies een geluid menu geopend met de optie Opnemen gemarkeerd.](images/record-sound-button.png)
 
-When you are ready, click the **Record** button to start recording your sound:
+Als je zover bent, klik je op de **Opnemen** knop om je geluid op te nemen.
 
-![The 'Record Sound' pop-up window with the 'Record' button.](images/record-sound.png)
+![Het pop-upvenster Geluid opnemen met de opnameknop.](images/record-sound.png)
 
-Click the **Stop recording** button to stop recording your sound:
+Klik op de **Stop met opnemen** knop om je geluidsopname te beëindigen.
 
-![The 'Record Sound' pop-up window with the 'Stop recording' button.](images/stop-recording-sound.png)
+![Het pop-upvenster Geluid opnemen met de knop Stop met opnemen.](images/stop-recording-sound.png)
 
 Je nieuwe opname is nu zichtbaar. Je kunt je geluid **Opnieuw opnemen** als je er niet tevreden over bent.
 
-Drag the orange circles to crop your sound; the part of the sound with a blue background (between the orange circles) will be the part that is kept:
+Versleep de oranje cirkels om je geluid in te korten; het deel van het geluid met de blauwe achtergrond (tussen de oranje cirkels) is het gedeelte dat bewaard wordt.
 
-![The recorded sound in full, with orange circles adjusted to show only part of the sound within a blue background. De rest van het geluid bevindt zich in een oranje gearceerd gebied.](images/crop-your-sound.png)
+![Het complete opgenomen geluid met oranje cirkels aangepast om slechts een deel van het geluid met blauwe achtergrond te tonen. De rest van het geluid bevindt zich in een oranje gearceerd gebied.](images/crop-your-sound.png)
 
-Als je tevreden bent met je opname, klik je op de **Bewaar** knop. You will be taken straight back to the **Sounds** tab and you will be able to see the sound that you have just added:
+Als je tevreden bent met je opname, klik je op de **Bewaar** knop. Je komt meteen terug in het **Geluiden** tabblad en je ziet het geluid dat je hebt opgenomen.
 
-![The Sounds tab, with recording1 showing in the list of sounds.](images/new-sound-inserted.png)
+![Het Geluiden tabblad met recording1 weergegeven in de lijst met geluiden.](images/new-sound-inserted.png)
 
-If you switch to the **Code** tab and look at the `Sound`{:class="block3sound"} blocks menu, you will be able to select the new sound:
+Als je naar het **Code** tabblad gaat en kijkt naar de `Geluid`{:class="block3sound"} blokken, kun je je nieuwe geluid gebruiken.
 
-![The 'Sound' blocks menu, with recording1 available for use within blocks.](images/sound-blocks-menu.png)
+![Het menu Geluidsblokken met recording1 beschikbaar voor gebruik in het vervolgkeuzemenu.](images/sound-blocks-menu.png)
 
 
