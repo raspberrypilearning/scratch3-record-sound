@@ -4,15 +4,15 @@
 
 اذهب إلى **اختيار صوت** وحدد خيار **تسجيل**:
 
-![The 'Choose a Sound' menu, with the 'Record' option highlighted.](images/record-sound-button.png)
+![قائمة "اختيار الصوت" ، مع تحديد الخيار "تسجيل".](images/record-sound-button.png)
 
 عندما تكون جاهزًا ، انقر فوق **تسجيل** لبدء تسجيل صوتك:
 
-![The 'Record Sound' pop-up window with the 'Record' button.](images/record-sound.png)
+![النافذة المنبثقة "تسجيل الصوت" مع الزر "تسجيل".](images/record-sound.png)
 
 انقر فوق **إيقاف التسجيل** لإيقاف تسجيل الصوت:
 
-![The 'Record Sound' pop-up window with the 'Stop recording' button.](images/stop-recording-sound.png)
+![النافذة المنبثقة "تسجيل الصوت" مع زر "إيقاف التسجيل".](images/stop-recording-sound.png)
 
 سيظهر التسجيل الجديد الخاص بك. يمكنك **إعادة تسجيل** صوتك إذا لم تكن راضيًا عنه.
 
@@ -26,6 +26,6 @@
 
 إذا قمت بالتبديل إلى **التعليمة البرمجية** التبويب ونظرة على `صوت`{: class= "block3sound"} القائمة التعليمات البرمجية، سوف تكون قادرا على تحديد الصوت الجديد:
 
-![The 'Sound' blocks menu, with recording1 available for use within blocks.](images/sound-blocks-menu.png)
+![قائمة كتل الصوت ، مع تسجيل 1 متاح للاستخدام داخل الكتل.](images/sound-blocks-menu.png)
 
 
