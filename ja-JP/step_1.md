@@ -1,31 +1,31 @@
-Select the sprite that you want to have the new recorded sound, then select the **Sounds** tab:
+新しく録音するサウンドにするスプライトを選択してから、**音**タブを選択します。
 
-![The Sounds tab open in the Scratch editor.](images/sounds-tab.png)
+![スクラッチエディタで開かれた音タブ](images/sounds-tab.png)
 
-Go to the **Choose a Sound** menu and select the **Record** option:
+**音を選ぶ** メニューに移動し、**録音する**オプションを選択します。
 
-![The 'Choose a Sound' menu, with the 'Record' option highlighted.](images/record-sound-button.png)
+![「録音」オプションが強調表示された「音を選ぶ」メニュー。](images/record-sound-button.png)
 
-When you are ready, click the **Record** button to start recording your sound:
+準備ができたら、**録音する**ボタンをクリックして、音の録音を開始します。
 
-![The 'Record Sound' pop-up window with the 'Record' button.](images/record-sound.png)
+![「録音する」ボタンのある「録音」ポップアップウィンドウ。](images/record-sound.png)
 
-Click the **Stop recording** button to stop recording your sound:
+**録音をやめる** ボタンをクリックして、音の録音を停止します。
 
-![The 'Record Sound' pop-up window with the 'Stop recording' button.](images/stop-recording-sound.png)
+![「録音をやめる」ボタンのある「録音」ポップアップウィンドウ。](images/stop-recording-sound.png)
 
-Your new recording will be shown. You can **Re-record** your sound if you are not happy with it.
+新しい録音が表示されます。 満足できない場合は、音を **再録音**することが出来ます。
 
-Drag the orange circles to crop your sound; the part of the sound with a blue background (between the orange circles) will be the part that is kept:
+オレンジ色の円をドラッグしてサウンドをトリミングします。背景が青色のサウンドの部分（オレンジ色の円の間）が保持される部分になります。
 
-![The recorded sound in full, with orange circles adjusted to show only part of the sound within a blue background. The rest of the sound is in an orange shaded area.](images/crop-your-sound.png)
+![録音された音の全体。青い背景である音の一部を切り取るためにオレンジ色の円で選択されたもの。 残りの音はオレンジ色の影付きの領域。](images/crop-your-sound.png)
 
-When you are happy with your recording, click the **Save** button. You will be taken straight back to the **Sounds** tab and you will be able to see the sound that you have just added:
+録音に満足したら、**保存** ボタンをクリックします。 **音** タブに戻り、追加したばかりのサウンドを確認できます。
 
-![The Sounds tab, with recording1 showing in the list of sounds.](images/new-sound-inserted.png)
+![音タブ。音のリストに表示されているrecording1。](images/new-sound-inserted.png)
 
-If you switch to the **Code** tab and look at the `Sound`{:class="block3sound"} blocks menu, you will be able to select the new sound:
+**コード** タブに切り替えて、 `音`{：class = "block3sound"}ブロックメニューを見ると、新しいサウンドを選択できます。
 
-![The 'Sound' blocks menu, with recording1 available for use within blocks.](images/sound-blocks-menu.png)
+![「音」ブロックメニュー。ブロック内で使用できるrecording1。](images/sound-blocks-menu.png)
 
 
