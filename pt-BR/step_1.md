@@ -1,26 +1,26 @@
-Select the sprite that you want to have the new recorded sound, then select the **Sounds** tab:
+Selecione o ator que você deseja para ter o novo som gravado, em seguida, selecione a aba **Sons**:
 
 ![The Sounds tab open in the Scratch editor.](images/sounds-tab.png)
 
-Go to the **Choose a Sound** menu and select the **Record** option:
+Vá para o menu **Escolha um som** e selecione a opção **Gravar**:
 
 ![The 'Choose a Sound' menu, with the 'Record' option highlighted.](images/record-sound-button.png)
 
-When you are ready, click the **Record** button to start recording your sound:
+Quando você estiver pronto, clique no botão **Gravar** para iniciar a gravação do seu som:
 
 ![The 'Record Sound' pop-up window with the 'Record' button.](images/record-sound.png)
 
-Click the **Stop recording** button to stop recording your sound:
+Clique no botão **Parar gravação** para parar de gravar um som:
 
 ![The 'Record Sound' pop-up window with the 'Stop recording' button.](images/stop-recording-sound.png)
 
-Your new recording will be shown. You can **Re-record** your sound if you are not happy with it.
+Sua nova gravação será exibida. Você pode **Regravar** seu som se você não estiver satisfeito com ele.
 
-Drag the orange circles to crop your sound; the part of the sound with a blue background (between the orange circles) will be the part that is kept:
+Arraste os círculos laranja para cortar seu som; a parte do som com fundo azul (entre os círculos laranja) será mantida a parte:
 
 ![The recorded sound in full, with orange circles adjusted to show only part of the sound within a blue background. The rest of the sound is in an orange shaded area.](images/crop-your-sound.png)
 
-When you are happy with your recording, click the **Save** button. You will be taken straight back to the **Sounds** tab and you will be able to see the sound that you have just added:
+Quando estiver satisfeito com sua gravação, clique no botão **Salvar**. You will be taken straight back to the **Sounds** tab and you will be able to see the sound that you have just added:
 
 ![The Sounds tab, with recording1 showing in the list of sounds.](images/new-sound-inserted.png)
 
