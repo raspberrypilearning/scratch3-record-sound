@@ -1,31 +1,31 @@
-Select the sprite that you want to have the new recorded sound, then select the **Sounds** tab:
+ನೀವು ರೆಕಾರ್ಡ್ ಮಾಡಿದ ಹೊಸ ಧ್ವನಿಯನ್ನು ಹೊಂದಲು ಬಯಸುವ ಸ್ಪ್ರೈಟ್ ಅನ್ನು ಆಯ್ಕೆ ಮಾಡಿ, ನಂತರ **Sounds** ಟ್ಯಾಬ್ ಅನ್ನು ಆಯ್ಕೆ ಮಾಡಿ:
 
-![The Sounds tab open in the Scratch editor.](images/sounds-tab.png)
+![Scratch ಎಡಿಟರ್‌ನಲ್ಲಿ ಸೌಂಡ್ಸ್ ಟ್ಯಾಬ್ ತೆರೆಯುತ್ತದೆ.](images/sounds-tab.png)
 
-Go to the **Choose a Sound** menu and select the **Record** option:
+**Choose a Sound** ಮೆನುವನ್ನು ಆಯ್ಕೆ ಮಾಡಿ ಮತ್ತು **Round** ಆಯ್ಕೆಯನ್ನು ಆರಿಸಿ:
 
-![The 'Choose a Sound' menu, with the 'Record' option highlighted.](images/record-sound-button.png)
+!['Choose a sound' ಮೆನು, 'ರೆಕಾರ್ಡ್' ಆಯ್ಕೆಯನ್ನು ಹೈಲೈಟ್ ಮಾಡಲಾಗಿದೆ.](images/record-sound-button.png)
 
-When you are ready, click the **Record** button to start recording your sound:
+ನೀವು ರೆಕಾರ್ಡ್ ಮಾಡಲು ಸಿದ್ಧರಾದಾಗ, ನಿಮ್ಮ ಧ್ವನಿಯನ್ನು ರೆಕಾರ್ಡ್ ಮಾಡಲು **Record** ಆಯ್ಕೆ ಮಾಡಿ:
 
-![The 'Record Sound' pop-up window with the 'Record' button.](images/record-sound.png)
+!['Record sound' ಪಾಪ್-ಅಪ್ ವಿಂಡೋ 'Record' ಬಟನ್‌ನೊಂದಿಗೆ.](images/record-sound.png)
 
-Click the **Stop recording** button to stop recording your sound:
+ನಿಮ್ಮ ಧ್ವನಿಯನ್ನು ರೆಕಾರ್ಡ್ ಮಾಡುವುದನ್ನು ನಿಲ್ಲಿಸಲು **Stop recording** ಬಟನ್ ಕ್ಲಿಕ್ ಮಾಡಿ:
 
-![The 'Record Sound' pop-up window with the 'Stop recording' button.](images/stop-recording-sound.png)
+!['Record sound' ಪಾಪ್-ಅಪ್ ವಿಂಡೋ 'Stop recording' ಬಟನ್‌ನೊಂದಿಗೆ.](images/stop-recording-sound.png)
 
-Your new recording will be shown. You can **Re-record** your sound if you are not happy with it.
+ನಿಮ್ಮ ಹೊಸ ರೆಕಾರ್ಡಿಂಗ್ ಅನ್ನು ತೋರಿಸಲಾಗುತ್ತದೆ. ನೀವು ಮಾಡಿದ ರೆಕಾರ್ಡಿಂಗ್ ನಿಮಗೆ ಇಷ್ಟವಾಗದಿದ್ದರೆ, ಮತ್ತೊಂದು ಸಲ ರೆಕಾರ್ಡ್ ಮಾಡಲು **Re-record** ಬಟನ್ ಕ್ಲಿಕ್ ಮಾಡಿ.
 
-Drag the orange circles to crop your sound; the part of the sound with a blue background (between the orange circles) will be the part that is kept:
+ನಿಮ್ಮ ಧ್ವನಿಯನ್ನು ಕತ್ತರಿಸಲು ಕಿತ್ತಳೆ ವಲಯಗಳನ್ನು ಎಳೆಯಿರಿ; ನೀಲಿ ಹಿನ್ನೆಲೆಯೊಂದಿಗೆ ಧ್ವನಿಯ ಭಾಗವು (ಕಿತ್ತಳೆ ವಲಯಗಳ ನಡುವೆ) ಇರಿಸಲಾಗಿರುವ ಭಾಗವಾಗಿರುತ್ತದೆ:
 
-![The recorded sound in full, with orange circles adjusted to show only part of the sound within a blue background. The rest of the sound is in an orange shaded area.](images/crop-your-sound.png)
+![ರೆಕಾರ್ಡ್ ಮಾಡಿದ ಧ್ವನಿಯು ಸಂಪೂರ್ಣವಾಗಿದೆ, ಕಿತ್ತಳೆ ವಲಯಗಳನ್ನು ನೀಲಿ ಹಿನ್ನೆಲೆಯಲ್ಲಿ ಧ್ವನಿಯ ಭಾಗವನ್ನು ಮಾತ್ರ ತೋರಿಸಲು ಸರಿಹೊಂದಿಸಲಾಗಿದೆ. ಉಳಿದ ಶಬ್ದವು ಕಿತ್ತಳೆ ಛಾಯೆಯ ಪ್ರದೇಶದಲ್ಲಿದೆ.](images/crop-your-sound.png)
 
-When you are happy with your recording, click the **Save** button. You will be taken straight back to the **Sounds** tab and you will be able to see the sound that you have just added:
+ನಿಮ್ಮ ರೆಕಾರ್ಡಿಂಗ್‌ನಲ್ಲಿ ನೀವು ಬಯಸಿದಂತೆ ಆದಾಗ, **ಸೇವ್** ಬಟನ್ ಕ್ಲಿಕ್ ಮಾಡಿ. ನಿಮ್ಮನ್ನು ನೇರವಾಗಿ **ಸೌಂಡ್ಸ್** ಟ್ಯಾಬ್‌ಗೆ ಕರೆದೊಯ್ಯಲಾಗುತ್ತದೆ ಮತ್ತು ನೀವು ಈಗ ಸೇರಿಸಿರುವ ಧ್ವನಿಯನ್ನು ನೋಡಲು ಸಾಧ್ಯವಾಗುತ್ತದೆ:
 
-![The Sounds tab, with recording1 showing in the list of sounds.](images/new-sound-inserted.png)
+![ಸೌಂಡ್ಸ್ ಟ್ಯಾಬ್ ನಲ್ಲಿ ಧ್ವನಿಗಳ ಪಟ್ಟಿಯಲ್ಲಿ recording1 ತೋರಿಸುವುದ.](images/new-sound-inserted.png)
 
-If you switch to the **Code** tab and look at the `Sound`{:class="block3sound"} blocks menu, you will be able to select the new sound:
+ನೀವು **Code** ಟ್ಯಾಬ್‌ಗೆ ಬದಲಾಯಿಸಿ ಮತ್ತು `Sound`{:class="block3sound"} ಬ್ಲಾಕ್ ಮೆನುವನ್ನು ನೋಡಿದರೆ, ನೀವು ರೆಕಾರ್ಡ್ ಮಾಡಿದ ಹೊಸ ಧ್ವನಿಯನ್ನು ಆಯ್ಕೆ ಮಾಡಲು ಸಾಧ್ಯವಾಗುತ್ತದೆ:
 
-![The 'Sound' blocks menu, with recording1 available for use within blocks.](images/sound-blocks-menu.png)
+!['Sound' ಬ್ಲಾಕ್ ಮೆನು, recording1 ಬ್ಲಾಕ್‌ಗಳಲ್ಲಿ ಬಳಸಲು ಲಭ್ಯವಿದೆ.](images/sound-blocks-menu.png)
 
 
