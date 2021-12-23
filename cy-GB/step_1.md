@@ -1,31 +1,31 @@
-Select the sprite that you want to have the new recorded sound, then select the **Sounds** tab:
+Dewisa'r corlun rwyt ti am roi'r sain newydd wedi'i recordio iddo, wedyn dewis y tab **Seiniau**:
 
-![The Sounds tab open in the Scratch editor.](images/sounds-tab.png)
+![Y tab Seiniau ar agor yn y golygydd Scratch.](images/sounds-tab.png)
 
-Go to the **Choose a Sound** menu and select the **Record** option:
+Cer i'r ddewislen **Dewiswch Sain** a dewis yr opsiwn **Recordio**:
 
-![The 'Choose a Sound' menu, with the 'Record' option highlighted.](images/record-sound-button.png)
+![Y ddewislen 'Dewiswch Sain', gyda'r opsiwn 'Recordio' wedi'i hamlygu.](images/record-sound-button.png)
 
-When you are ready, click the **Record** button to start recording your sound:
+Pan fyddi di'n barod, clicia ar y botwm **Recordio** i ddechrau recordio dy sain:
 
-![The 'Record Sound' pop-up window with the 'Record' button.](images/record-sound.png)
+![Y ffenestr naid 'Recordio Sain' gyda'r botwm 'Recordio'.](images/record-sound.png)
 
-Click the **Stop recording** button to stop recording your sound:
+Clicia'r botwm **Stopio recordio** i roi'r gorau i recordio dy sain:
 
-![The 'Record Sound' pop-up window with the 'Stop recording' button.](images/stop-recording-sound.png)
+![Y ffenestr naid 'Recordio Sain' gyda'r botwm 'Stopio recordio'.](images/stop-recording-sound.png)
 
-Your new recording will be shown. You can **Re-record** your sound if you are not happy with it.
+Bydd dy recordiad newydd yn cael ei ddangos. Galli di **Ail-recordio** dy sain os nad wyt ti'n hapus â hi.
 
-Drag the orange circles to crop your sound; the part of the sound with a blue background (between the orange circles) will be the part that is kept:
+Llusga'r cylchoedd oren i docio dy sain; y rhan o'r sain gyda chefndir glas (rhwng y cylchoedd oren) fydd y rhan sy'n cael ei chadw:
 
-![The recorded sound in full, with orange circles adjusted to show only part of the sound within a blue background. The rest of the sound is in an orange shaded area.](images/crop-your-sound.png)
+![Y sain wedi'i recordio yn llawn, gyda chylchoedd oren wedi'u haddasu i ddangos dim ond rhan o'r sain o fewn cefndir glas. Mae gweddill y sain mewn rhan â graddliw oren.](images/crop-your-sound.png)
 
-When you are happy with your recording, click the **Save** button. You will be taken straight back to the **Sounds** tab and you will be able to see the sound that you have just added:
+Pan fyddi di'n hapus â dy recordiad, clicia'r botwm **Cadw**. Byddi di'n cael dy dywys yn syth yn ôl i'r tab **Seiniau** a byddi di'n gallu gweld y sain rwyt ti newydd ei ychwanegu:
 
-![The Sounds tab, with recording1 showing in the list of sounds.](images/new-sound-inserted.png)
+![Y tab Seiniau, gyda recordiad1 yn dangos yn y rhestr seiniau.](images/new-sound-inserted.png)
 
-If you switch to the **Code** tab and look at the `Sound`{:class="block3sound"} blocks menu, you will be able to select the new sound:
+Os byddi di'n newid i'r tab **Cod** ac yn edrych ar y ddewislen blociau `Sain`{:class="block3sound"}, byddi di'n gallu dewis y sain newydd:
 
-![The 'Sound' blocks menu, with recording1 available for use within blocks.](images/sound-blocks-menu.png)
+![Y ddewislen blociau 'Sain', gyda recordiad1 ar gael i'w ddefnyddio o fewn blociau.](images/sound-blocks-menu.png)
 
 
