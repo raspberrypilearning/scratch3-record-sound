@@ -1,31 +1,31 @@
-Select the sprite that you want to have the new recorded sound, then select the **Sounds** tab:
+Wybierz duszka, dla którego chcesz mieć nowo nagrany dźwięk, a następnie wybierz zakładkę **Dźwięki**:
 
-![The Sounds tab open in the Scratch editor.](images/sounds-tab.png)
+![Zakładka Dźwięki otwarta w edytorze Scratch.](images/sounds-tab.png)
 
-Go to the **Choose a Sound** menu and select the **Record** option:
+Przejdź do menu **Wybierz dźwięk** i wybierz opcję **Nagraj**:
 
-![The 'Choose a Sound' menu, with the 'Record' option highlighted.](images/record-sound-button.png)
+![Menu „Wybierz dźwięk” z podświetloną opcją „Nagraj”.](images/record-sound-button.png)
 
-When you are ready, click the **Record** button to start recording your sound:
+Gdy będziesz gotowy, kliknij przycisk **Nagraj**, aby rozpocząć nagrywanie dźwięku:
 
-![The 'Record Sound' pop-up window with the 'Record' button.](images/record-sound.png)
+![Wyskakujące okno „Nagraj dźwięk” z przyciskiem „Nagraj”.](images/record-sound.png)
 
-Click the **Stop recording** button to stop recording your sound:
+Kliknij przycisk **Zatrzymaj nagrywanie**, aby zatrzymać nagrywanie dźwięku:
 
-![The 'Record Sound' pop-up window with the 'Stop recording' button.](images/stop-recording-sound.png)
+![Wyskakujące okno „Nagraj dźwięk” z przyciskiem „Zatrzymaj nagrywanie”.](images/stop-recording-sound.png)
 
-Your new recording will be shown. You can **Re-record** your sound if you are not happy with it.
+Twoje nowe nagranie zostanie pokazane. Możesz wybrać **Nagraj ponownie** swój dźwięk, jeśli nie jesteś z niego zadowolony.
 
-Drag the orange circles to crop your sound; the part of the sound with a blue background (between the orange circles) will be the part that is kept:
+Przeciągnij pomarańczowe kółka, aby przyciąć dźwięk; część dźwięku z niebieskim tłem (między pomarańczowymi kółkami) będzie częścią, która zostanie zachowana:
 
-![The recorded sound in full, with orange circles adjusted to show only part of the sound within a blue background. The rest of the sound is in an orange shaded area.](images/crop-your-sound.png)
+![Nagrany dźwięk w całości, z pomarańczowymi kółkami dostosowanymi, aby pokazać tylko część dźwięku na niebieskim tle. Reszta dźwięku znajduje się w obszarze zacienionym na pomarańczowo.](images/crop-your-sound.png)
 
-When you are happy with your recording, click the **Save** button. You will be taken straight back to the **Sounds** tab and you will be able to see the sound that you have just added:
+Gdy jesteś zadowolony ze swojego nagrania, kliknij przycisk **Zapisz**. Zostaniesz przeniesiony z powrotem do zakładki **Dźwięki** i będziesz mógł zobaczyć właśnie dodany dźwięk:
 
-![The Sounds tab, with recording1 showing in the list of sounds.](images/new-sound-inserted.png)
+![Karta Dźwięki, na której na liście dźwięków nagranie wyświetlane jest jako recording1.](images/new-sound-inserted.png)
 
-If you switch to the **Code** tab and look at the `Sound`{:class="block3sound"} blocks menu, you will be able to select the new sound:
+Jeśli przejdziesz do **Skrypt** i spojrzysz na `Dźwięk`{:class="block3sound"}, będziesz mógł wybrać nowy dźwięk:
 
-![The 'Sound' blocks menu, with recording1 available for use within blocks.](images/sound-blocks-menu.png)
+![Menu bloków „Dźwięk” z recording1 dostępne do wykorzystania w obrębie bloków.](images/sound-blocks-menu.png)
 
 
