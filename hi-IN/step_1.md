@@ -1,31 +1,31 @@
-Select the sprite that you want to have the new recorded sound, then select the **Sounds** tab:
+उस स्प्राइट का चयन करें जिसे आप नई रिकॉर्ड की गई ध्वनि चाहते हैं, फिर **ध्वनि** टैब चुनें:
 
-![The Sounds tab open in the Scratch editor.](images/sounds-tab.png)
+![स्क्रैच संपादक में ध्वनि टैब खुलता है।](images/sounds-tab.png)
 
-Go to the **Choose a Sound** menu and select the **Record** option:
+**ध्वनि** मेनू चुनें और **अभिलेखबद्ध** विकल्प चुनें:
 
-![The 'Choose a Sound' menu, with the 'Record' option highlighted.](images/record-sound-button.png)
+!['एक ध्वनि चुनें' मेनू, जिसमें 'अभिलेखबद्ध' विकल्प प्रमुख किया गया है।](images/record-sound-button.png)
 
-When you are ready, click the **Record** button to start recording your sound:
+जब आप तैयार हों, तो **अभिलेखबद्ध** बटन पर क्लिक करें अपनी ध्वनि अभिलेखबद्ध करना शुरू करे:
 
-![The 'Record Sound' pop-up window with the 'Record' button.](images/record-sound.png)
+!['ध्वनि अभिलेखबद्ध' पॉप-अप डिब्बे के साथ 'अभिलेखबद्ध' बटन।](images/record-sound.png)
 
-Click the **Stop recording** button to stop recording your sound:
+अपनी ध्वनि अभिलेखबद्ध करना बंद करने के लिए **ध्वनि अभिलेखबद्ध बंद करें** बटन पर क्लिक करें:
 
-![The 'Record Sound' pop-up window with the 'Stop recording' button.](images/stop-recording-sound.png)
+!['ध्वनि अभिलेखबद्ध बंद करें' पॉप-अप डिब्बे के साथ 'अभिलेखबद्ध बंद करें' बटन।](images/stop-recording-sound.png)
 
-Your new recording will be shown. You can **Re-record** your sound if you are not happy with it.
+आपकी नई अभिलेखबद्ध दिखाई देगी। यदि आप अपनी ध्वनि से खुश नहीं हैं तो आप **पुनः अभिलेखबद्ध** कर सकते हैं।
 
-Drag the orange circles to crop your sound; the part of the sound with a blue background (between the orange circles) will be the part that is kept:
+अपनी ध्वनि काटने के लिए नारंगी वृत्त को खींचें; नीली पृष्ठभूमि वाली ध्वनि का भाग (नारंगी वृत्तों के बीच) वह भाग होगा जिसे रखा गया है:
 
-![The recorded sound in full, with orange circles adjusted to show only part of the sound within a blue background. The rest of the sound is in an orange shaded area.](images/crop-your-sound.png)
+![पूरी तरह से अभिलेखबद्ध की गई ध्वनि, नीले रंग की पृष्ठभूमि में नारंगी वृत्तों के साथ ध्वनि का केवल एक भाग दिखाने के लिए समायोजित। शेष ध्वनि नारंगी छायांकित क्षेत्र में है।](images/crop-your-sound.png)
 
-When you are happy with your recording, click the **Save** button. You will be taken straight back to the **Sounds** tab and you will be able to see the sound that you have just added:
+जब आप अपनी रिकॉर्डिंग से खुश हों, तो **सेव** बटन पर क्लिक करें। आपको सीधे **ध्वनि** टैब पर ले जाया जाएगा और आप उस ध्वनि को देख पाएंगे जिसे आपने अभी जोड़ा है:
 
-![The Sounds tab, with recording1 showing in the list of sounds.](images/new-sound-inserted.png)
+![ध्वनि टैब, ध्वनि की सूची में रिकॉर्डिंग1 दिखा रहा है।](images/new-sound-inserted.png)
 
-If you switch to the **Code** tab and look at the `Sound`{:class="block3sound"} blocks menu, you will be able to select the new sound:
+यदि आप **कोड** टैब पर स्विच करते हैं और `ध्वनि`{:class="block3sound"} ब्लॉक मेनू को देखते हैं, तो आप नई ध्वनि का चयन करने में सक्षम होंगे:
 
-![The 'Sound' blocks menu, with recording1 available for use within blocks.](images/sound-blocks-menu.png)
+!['ध्वनि' ब्लॉक मेनू, जिसमें रिकॉर्डिंग1 ब्लॉक में उपयोग के लिए उपलब्ध है](images/sound-blocks-menu.png)
 
 
