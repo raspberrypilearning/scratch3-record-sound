@@ -1,31 +1,31 @@
-Select the sprite that you want to have the new recorded sound, then select the **Sounds** tab:
+Вибери спрайт, для якого ти хочеш записати новий звук, і перейди на вкладку **Звуки**:
 
-![The Sounds tab open in the Scratch editor.](images/sounds-tab.png)
+![Вкладка «Звук» відкрита в редакторі Scratch.](images/sounds-tab.png)
 
-Go to the **Choose a Sound** menu and select the **Record** option:
+Перейди до меню **Обрати звук** та вибери опцію **Записати**:
 
-![The 'Choose a Sound' menu, with the 'Record' option highlighted.](images/record-sound-button.png)
+![Меню 'Обрати звук' з опцією 'Записати' виділено.](images/record-sound-button.png)
 
-When you are ready, click the **Record** button to start recording your sound:
+Коли ти будеш напоготові, натисни кнопку **Записати**, щоб почати запис звуку:
 
-![The 'Record Sound' pop-up window with the 'Record' button.](images/record-sound.png)
+![Спливаюче вікно 'Запис звуку' з кнопкою 'Записати'.](images/record-sound.png)
 
-Click the **Stop recording** button to stop recording your sound:
+Натисни кнопку **Зупинити запис**, щоб зупинити запис звуку:
 
-![The 'Record Sound' pop-up window with the 'Stop recording' button.](images/stop-recording-sound.png)
+![Спливаюче вікно 'Запис звуку' з кнопкою 'Зупинити запис'.](images/stop-recording-sound.png)
 
-Your new recording will be shown. You can **Re-record** your sound if you are not happy with it.
+З'явиться твій новий запис. Ти можеш **Перезаписати** твій звук, якщо він тебе не влаштовує.
 
-Drag the orange circles to crop your sound; the part of the sound with a blue background (between the orange circles) will be the part that is kept:
+Перетягуй оранжеві кружечки, щоб обрізати звук; частина звуку з синім фоном (між оранжевими кружечками) буде збережена окремою частиною:
 
-![The recorded sound in full, with orange circles adjusted to show only part of the sound within a blue background. The rest of the sound is in an orange shaded area.](images/crop-your-sound.png)
+![Запис звуку в повному обсязі, з помаранчевими колами, які налаштовані так, щоб показувати лише частину звуку на синьому фоні. Інша частина звуку знаходиться в помаранчевій затіненій зоні.](images/crop-your-sound.png)
 
-When you are happy with your recording, click the **Save** button. You will be taken straight back to the **Sounds** tab and you will be able to see the sound that you have just added:
+Якщо тебе влаштовує твій запис, натисни кнопку **Зберегти**. Ти повернешся на вкладку **Звуки** та зможеш побачити звук, який щойно був створений:
 
-![The Sounds tab, with recording1 showing in the list of sounds.](images/new-sound-inserted.png)
+![Вкладка Звуки, де знаходиться recording1 у списку звуків.](images/new-sound-inserted.png)
 
-If you switch to the **Code** tab and look at the `Sound`{:class="block3sound"} blocks menu, you will be able to select the new sound:
+Якщо ти перейдеш на вкладку **Код** і подивишся на меню блоків `Звук`{:class="block3sound"}, ти зможеш вибрати новий звук:
 
-![The 'Sound' blocks menu, with recording1 available for use within blocks.](images/sound-blocks-menu.png)
+![Меню блоків 'Звук', з recording1, доступним для використання в блоках.](images/sound-blocks-menu.png)
 
 
