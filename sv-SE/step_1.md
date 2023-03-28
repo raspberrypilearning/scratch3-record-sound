@@ -1,31 +1,31 @@
-Select the sprite that you want to have the new recorded sound, then select the **Sounds** tab:
+Välj sprajten som du vill ska ha det inspelade ljudet och välj sedan **Ljud**fliken:
 
-![The Sounds tab open in the Scratch editor.](images/sounds-tab.png)
+![Ljudfliken öppnad i Scratch-redigeraren.](images/sounds-tab.png)
 
-Go to the **Choose a Sound** menu and select the **Record** option:
+Gå till **"Välj ett ljud"**-menyn och välj alternativet **"Spela in"**:
 
-![The 'Choose a Sound' menu, with the 'Record' option highlighted.](images/record-sound-button.png)
+!["Välj ett ljud"-menyn, med alternativet "Spela in" markerat.](images/record-sound-button.png)
 
-When you are ready, click the **Record** button to start recording your sound:
+När du är redo, klicka på **"Spela in"**-knappen för att börja spela in ditt ljud:
 
-![The 'Record Sound' pop-up window with the 'Record' button.](images/record-sound.png)
+![Popup-fönstret 'Spela in ljud' med 'Spela in'-knappen.](images/record-sound.png)
 
-Click the **Stop recording** button to stop recording your sound:
+Klicka på **"Sluta spela in"**-knappen för att sluta spela in ditt ljud:
 
-![The 'Record Sound' pop-up window with the 'Stop recording' button.](images/stop-recording-sound.png)
+![Popup-fönstret 'Spela in ljud' med 'Sluta spela in'-knappen.](images/stop-recording-sound.png)
 
-Your new recording will be shown. You can **Re-record** your sound if you are not happy with it.
+Din nya inspelning kommer att visas. Du kan **spela** in ditt ljud igen om du inte är nöjd med det.
 
-Drag the orange circles to crop your sound; the part of the sound with a blue background (between the orange circles) will be the part that is kept:
+Dra de orange cirklarna för att klippa ditt ljud; delen av ljudet med blå bakgrund (mellan de orange cirklarna) kommer att vara den del som behålls:
 
-![The recorded sound in full, with orange circles adjusted to show only part of the sound within a blue background. The rest of the sound is in an orange shaded area.](images/crop-your-sound.png)
+![Det inspelade ljudet i sin helhet, med orange cirklar justerade för att endast visa den del av ljudet inom en blå bakgrund. Resten av ljudet är i ett orange, skuggat område.](images/crop-your-sound.png)
 
-When you are happy with your recording, click the **Save** button. You will be taken straight back to the **Sounds** tab and you will be able to see the sound that you have just added:
+När du är nöjd med din inspelning, klicka på **Spara**knappen. Du kommer direkt tillbaka till **Ljud**fliken och kommer kunna se ljudet som du precis har lagt till:
 
-![The Sounds tab, with recording1 showing in the list of sounds.](images/new-sound-inserted.png)
+![Ljudfliken, med inspelning1 som visas i ljudlistan.](images/new-sound-inserted.png)
 
-If you switch to the **Code** tab and look at the `Sound`{:class="block3sound"} blocks menu, you will be able to select the new sound:
+Om du byter till **Kod**-fliken och tittar på menyn `Ljud`{:class="block3sound"}block, kommer du att kunna välja det nya ljudet:
 
-![The 'Sound' blocks menu, with recording1 available for use within blocks.](images/sound-blocks-menu.png)
+![Ljudlockmenyn, med inspelning1 tillgänglig för användning inom block.](images/sound-blocks-menu.png)
 
 
