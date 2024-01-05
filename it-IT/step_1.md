@@ -1,31 +1,31 @@
-Select the sprite that you want to have the new recorded sound, then select the **Sounds** tab:
+Seleziona lo sprite a cui vuoi aggiungere il nuovo suono registrato, poi seleziona la scheda **Suoni**:
 
-![The Sounds tab open in the Scratch editor.](images/sounds-tab.png)
+![La scheda Suoni si apre nell'editor Scratch.](images/sounds-tab.png)
 
-Go to the **Choose a Sound** menu and select the **Record** option:
+Vai al menu **Scegli un Suono** e seleziona l'opzione **Registra**:
 
-![The 'Choose a Sound' menu, with the 'Record' option highlighted.](images/record-sound-button.png)
+![Il menu 'Scegli un suono', con l'opzione 'Registra' evidenziata.](images/record-sound-button.png)
 
-When you are ready, click the **Record** button to start recording your sound:
+Quando sei pronto, fai clic sul pulsante **Registra** per iniziare a registrare il tuo suono:
 
-![The 'Record Sound' pop-up window with the 'Record' button.](images/record-sound.png)
+![La finestra pop-up 'Registra audio' con il pulsante 'Registra'.](images/record-sound.png)
 
-Click the **Stop recording** button to stop recording your sound:
+Fai clic sul pulsante **Arresta la registrazione** per fermare la registrazione:
 
-![The 'Record Sound' pop-up window with the 'Stop recording' button.](images/stop-recording-sound.png)
+![La finestra pop-up 'Registra audio' con il pulsante 'Ferma registrazione'.](images/stop-recording-sound.png)
 
-Your new recording will be shown. You can **Re-record** your sound if you are not happy with it.
+Il tuo nuovo suono verrà mostrato. Puoi **registrare nuovamente** il tuo suono se non sei soddisfatto.
 
-Drag the orange circles to crop your sound; the part of the sound with a blue background (between the orange circles) will be the part that is kept:
+Trascina i cerchi arancioni per ritagliare il suono; la parte del suono con sfondo blu (tra i cerchi arancioni) sarà quella che verrà utilizzato:
 
-![The recorded sound in full, with orange circles adjusted to show only part of the sound within a blue background. The rest of the sound is in an orange shaded area.](images/crop-your-sound.png)
+![Il suono registrato per intero, con i cerchi arancioni regolati per mostrare solo parte del suono su uno sfondo blu. Il resto del suono si trova in un'area ombreggiata in arancione.](images/crop-your-sound.png)
 
-When you are happy with your recording, click the **Save** button. You will be taken straight back to the **Sounds** tab and you will be able to see the sound that you have just added:
+Quando sei soddisfatto della registrazione, fai clic sul pulsante **Salva**. Verrai riportato direttamente alla scheda **Suoni** e potrai vedere il suono che hai appena aggiunto:
 
-![The Sounds tab, with recording1 showing in the list of sounds.](images/new-sound-inserted.png)
+![La scheda Suoni, con recording1 visualizzata nell'elenco dei suoni.](images/new-sound-inserted.png)
 
-If you switch to the **Code** tab and look at the `Sound`{:class="block3sound"} blocks menu, you will be able to select the new sound:
+Se passi alla scheda **Codice** e selezioni il menu dei blocchi `Suono`{:class="block3sound"}, potrai selezionare il nuovo suono:
 
-![The 'Sound' blocks menu, with recording1 available for use within blocks.](images/sound-blocks-menu.png)
+![Il menu dei blocchi 'Suono', con recording1 disponibile all'interno dei blocchi.](images/sound-blocks-menu.png)
 
 
